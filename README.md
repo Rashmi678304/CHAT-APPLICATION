@@ -37,3 +37,4 @@ Backend: Node.js with Express and Socket.io / Firebase Realtime Database
 Optional: MongoDB for storing messages and user data
 
 OUTPUT
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/7bee33de-03d8-42e5-8de2-fc8f4c27bf1d" />
