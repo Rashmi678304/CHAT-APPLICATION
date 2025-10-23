@@ -1,23 +1,39 @@
-Realtime Chat (React + Socket.IO)
-=================================
+CHAT APPLICATION
 
-This project contains:
-- server/ : Node.js + Express + Socket.IO backend
-- client/ : Vite + React frontend
+COMPANY: CODTECH IT SOLUTIONS
 
-Quick start (Windows 11, VS Code)
-1. Open two terminal windows (or two VS Code terminals).
-2. Server:
-   cd server
-   npm install
-   npm start
-3. Client:
-   cd client
-   npm install
-   npm run dev
-4. Open browser at the Vite dev URL (usually http://localhost:5173)
-5. Join a room from two different browser tabs to test realtime chat.
+NAME: Rashmi R
 
-Notes:
-- Messages are stored in-memory on the server (for demo only).
-- For production, use a database and proper CORS/HTTPS configuration.
+INTERN ID: CT04DY
+
+DOMAIN: FULL STACK DEVELOPMENT
+
+DURATION: 4 WEEKS
+
+MENTOR: NEELA SANTOSH
+
+PROJECT DESCRIPTION
+
+This project is a real-time chat application that enables users to send and receive messages instantly. Built using HTML, CSS, JavaScript, and a backend powered by Node.js and Socket.io (or Firebase), it supports one-on-one and group conversations with live message updates. The app demonstrates core concepts of web sockets, event-driven communication, and user interface design for seamless interaction.
+
+Key Features:
+
+Real-time messaging using WebSockets or Firebase
+
+User authentication and session management
+
+Typing indicators and message timestamps
+
+Responsive design for mobile and desktop
+
+Optional: emoji support, file sharing, and chat history
+
+Tech Stack:
+
+Frontend: HTML, CSS, JavaScript
+
+Backend: Node.js with Express and Socket.io / Firebase Realtime Database
+
+Optional: MongoDB for storing messages and user data
+
+OUTPUT
